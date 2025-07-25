@@ -69,13 +69,13 @@ Update VIDEO_ID in run_pipeline.py to match the video filename (without extensio
 python app/run_pipeline.py
 ```
 This will:
-1. Run Whisper transcription
-2. Extract frames and apply OCR
-3. Create transcript + OCR chunks
-4. Embed into ChromaDB
-5. Launch the Q&A CLI
+- Run Whisper transcription
+- Extract frames and apply OCR
+- Create transcript + OCR chunks
+- Embed into ChromaDB
+- Launch the Q&A CLI
 
-6. ❓ Ask Questions
+3. ❓ Ask Questions
 ```bash
 Inside the CLI:
 Ask: What did the speaker say about housing policy?
@@ -84,12 +84,12 @@ Ask: exit
 ```
 🧠 Tech Stack:
 
-1. Whisper (ASR),
-2. EasyOCR (image-to-text),
-3. SentenceTransformers (all-MiniLM-L6-v2),
-4. ChromaDB (vector DB),
-5. Ollama (local LLMs),
-6. Python CLI (no frontend yet)
+- Whisper (ASR)
+- EasyOCR (image-to-text)
+- entenceTransformers (all-MiniLM-L6-v2)
+- ChromaDB (vector DB)
+- Ollama (local LLMs),
+- Python CLI (no frontend yet)
 
 📌 TODO (Upcoming)
 
