@@ -17,6 +17,7 @@ RAGify is an intelligent pipeline for civic meeting video understanding. It tran
 ---
 
 ## 📁 Project Structure
+```bash
 ragify/
 │
 ├── app/
@@ -40,8 +41,8 @@ ragify/
 ├── export/ # Exported session summaries & QAs
 ├── requirements.txt
 └── README.md
----
 
+```
 ## 🔧 Setup
 ```bash
 # 1. Clone the repo
