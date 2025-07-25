@@ -88,12 +88,12 @@ Ask: exit
 - EasyOCR (image-to-text)
 - entenceTransformers (all-MiniLM-L6-v2)
 - ChromaDB (vector DB)
-- Ollama (local LLMs),
+- Ollama (local LLMs)
 - Python CLI (no frontend yet)
 
 📌 TODO (Upcoming)
 
-1. React frontend like Groq Chat,
-2. Admin dashboard for summary & QA logs,
-3. Multi-video search,
-4. OCR post-processing for better accuracy
+- React frontend like Groq Chat
+- Admin dashboard for summary & QA logs
+- Multi-video search
+- OCR post-processing for better accuracy
