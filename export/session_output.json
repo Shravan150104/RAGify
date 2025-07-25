@@ -1,0 +1,275 @@
+{
+  "summary": " 1. Minneapolis is set to become the first major U.S. city to end single family home zoning, a move aimed at addressing issues of segregation, high housing costs, and sprawl that have persisted over the past century.\n2. The change in Minneapolis was led by a comprehensive planning process within their planning department, involving significant community outreach and a desire for large-scale, dramatic change.\n3. In San Francisco, while single family zoning has historically kept people out of certain neighborhoods, a majority of single-family home ownership is now non-white in many neighborhoods. However, the city's lot sizes are smaller compared to other cities, posing different challenges for densification.\n4. The discussion on housing and potential changes in San Francisco should consider what other cities are doing or what distinguishes them from other cities.\n5. Commissioners expressed support for exploring broader, larger-scale changes in San Francisco's housing policy, recognizing the unique constraints and opportunities presented by the city's topography, history, and lot sizes.",
+  "qa_log": [
+    {
+      "question": "what did they talk about zoning",
+      "answer": " They discussed the issue of zoning, specifically focusing on the concern about restrictive zoning that has historically contributed to segregation, high housing costs, and urban sprawl. More specifically, it was proposed to end single-family home zoning, which has been a significant factor in entrenching these issues over the past century. Additionally, they mentioned that restrictive zoning laws have been used to keep certain minorities from moving into specific neighborhoods, and this issue persists today. The conversation revolves around the idea of abolishing or mending such restrictive zoning policies as part of a larger consensus in the city.\n\n[31.0 \u2013 46.0, 65.0 \u2013 88.0]"
+    },
+    {
+      "question": "?",
+      "answer": " The current question could be \"What did Commissioner Richards propose or suggest regarding zoning?\"\n\n[153.0 \u2013 168.0] and [0.0 \u2013 15.0] are the relevant time ranges in the transcript.\n\nCommissioner Richards suggested that they follow what has been happening in Minneapolis, which is getting rid of single-family home only zoning."
+    }
+  ],
+  "transcript_chunks": [
+    {
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "text": " Hi, Laura Futt from Yimbi Action.  I don't know how many of you have watched what has been happening in Minneapolis,  but they got rid of single family home only zoning"
+    },
+    {
+      "start_time": 9.0,
+      "end_time": 24.0,
+      "text": " but they got rid of single family home only zoning  and they have made a plan to move to triplexes everywhere across their city.  And it's a huge step.  I'm going to be emailing you an amazing slate article"
+    },
+    {
+      "start_time": 19.0,
+      "end_time": 34.0,
+      "text": " And it's a huge step.  I'm going to be emailing you an amazing slate article  but I just wanted to read to you some of the highlights.  Minneapolis will become the first major U.S. city"
+    },
+    {
+      "start_time": 24.0,
+      "end_time": 39.0,
+      "text": " but I just wanted to read to you some of the highlights.  Minneapolis will become the first major U.S. city  to end single family home zoning, a policy that has done as much as any"
+    },
+    {
+      "start_time": 31.0,
+      "end_time": 46.0,
+      "text": " to end single family home zoning, a policy that has done as much as any  to entrench segregation, high housing costs, and sprawl  as the American urban paradigm over the past century."
+    },
+    {
+      "start_time": 36.0,
+      "end_time": 51.0,
+      "text": " to entrench segregation, high housing costs, and sprawl  as the American urban paradigm over the past century.  Large swaths of our city are exclusively zoned for single family homes"
+    },
+    {
+      "start_time": 44.0,
+      "end_time": 59.0,
+      "text": " Large swaths of our city are exclusively zoned for single family homes  so unless you have the ability to build a very large home on a very large lot,  you can't live in the neighborhood.  Minneapolis mayor Jacob Frey told me this week."
+    },
+    {
+      "start_time": 49.0,
+      "end_time": 64.0,
+      "text": " so unless you have the ability to build a very large home on a very large lot,  you can't live in the neighborhood.  Minneapolis mayor Jacob Frey told me this week."
+    },
+    {
+      "start_time": 55.0,
+      "end_time": 70.0,
+      "text": " Minneapolis mayor Jacob Frey told me this week.  Single family home zoning was devised as a legal way to keep black Americans  and other minorities from moving into certain neighborhoods"
+    },
+    {
+      "start_time": 65.0,
+      "end_time": 80.0,
+      "text": " and other minorities from moving into certain neighborhoods  and it still functions as an effective barrier today.  A abolishing restrictive zoning the mayor said was part of a general consensus"
+    },
+    {
+      "start_time": 73.0,
+      "end_time": 88.0,
+      "text": " A abolishing restrictive zoning the mayor said was part of a general consensus  that the city ought to begin to mend the damage  that was brought in pursuit of segregation."
+    },
+    {
+      "start_time": 79.0,
+      "end_time": 94.0,
+      "text": " that the city ought to begin to mend the damage  that was brought in pursuit of segregation.  Human diversity, which nearly everyone in this staunchly liberal city"
+    },
+    {
+      "start_time": 86.0,
+      "end_time": 101.0,
+      "text": " Human diversity, which nearly everyone in this staunchly liberal city  would say is a good thing, only goes as far as the housing stock.  I'm going to read that last one again."
+    },
+    {
+      "start_time": 95.0,
+      "end_time": 110.0,
+      "text": " I'm going to read that last one again.  Human diversity, which nearly everyone in this staunchly liberal city  would say is a good thing, only goes as far as the housing stock."
+    },
+    {
+      "start_time": 102.0,
+      "end_time": 117.0,
+      "text": " would say is a good thing, only goes as far as the housing stock.  A lot of legislation comes out of this body.  And I'm also speaking to all the nerds watching SFGov TV,"
+    },
+    {
+      "start_time": 109.0,
+      "end_time": 124.0,
+      "text": " A lot of legislation comes out of this body.  And I'm also speaking to all the nerds watching SFGov TV,  hopefully planning staff.  This was led by a planning process that originated in their planning department."
+    },
+    {
+      "start_time": 115.0,
+      "end_time": 130.0,
+      "text": " hopefully planning staff.  This was led by a planning process that originated in their planning department."
+    },
+    {
+      "start_time": 124.0,
+      "end_time": 139.0,
+      "text": " There was a lot of outreach in the community that said we're going to have a larger conversation.  We're not going to do as much project by project,  just whatever is coming at our face right now."
+    },
+    {
+      "start_time": 131.0,
+      "end_time": 146.0,
+      "text": " We're not going to do as much project by project,  just whatever is coming at our face right now.  We're going to do something big."
+    },
+    {
+      "start_time": 138.0,
+      "end_time": 153.0,
+      "text": " We're going to do something big.  We are capable of large and dramatic change to get us on a better course.  And we too are capable of large and dramatic change to get us on a better course."
+    },
+    {
+      "start_time": 147.0,
+      "end_time": 162.0,
+      "text": " And we too are capable of large and dramatic change to get us on a better course.  Thank you.  Thank you. Any additional public comment?  Seeing none, we'll close public comment. Commissioner Richards?"
+    },
+    {
+      "start_time": 153.0,
+      "end_time": 168.0,
+      "text": " Thank you.  Thank you. Any additional public comment?  Seeing none, we'll close public comment. Commissioner Richards?  Just one thought."
+    },
+    {
+      "start_time": 159.0,
+      "end_time": 174.0,
+      "text": " Seeing none, we'll close public comment. Commissioner Richards?  Just one thought.  I understand possibly where the single family zoning has kept people out of neighborhoods.  However, we had the Excelsior Action Plan last week."
+    },
+    {
+      "start_time": 164.0,
+      "end_time": 179.0,
+      "text": " I understand possibly where the single family zoning has kept people out of neighborhoods.  However, we had the Excelsior Action Plan last week.  And I look at these statistics around who own single family homes in the city."
+    },
+    {
+      "start_time": 170.0,
+      "end_time": 185.0,
+      "text": " However, we had the Excelsior Action Plan last week.  And I look at these statistics around who own single family homes in the city.  Their neighborhoods that were previously, I guess, excluded like Irish and things."
+    },
+    {
+      "start_time": 178.0,
+      "end_time": 193.0,
+      "text": " Their neighborhoods that were previously, I guess, excluded like Irish and things.  And like in the sunset, when you look at the actual ownership now,  it's majority non-white.  So I'm just having, you know, whatever the origins of single family zoning are,"
+    },
+    {
+      "start_time": 183.0,
+      "end_time": 198.0,
+      "text": " And like in the sunset, when you look at the actual ownership now,  it's majority non-white.  So I'm just having, you know, whatever the origins of single family zoning are,  at least in San Francisco, other than say Pacific Heights or a few other neighborhoods that are exclusively white,"
+    },
+    {
+      "start_time": 189.0,
+      "end_time": 204.0,
+      "text": " So I'm just having, you know, whatever the origins of single family zoning are,  at least in San Francisco, other than say Pacific Heights or a few other neighborhoods that are exclusively white,  there's majority, minority owners ownership in a lot of neighborhoods."
+    },
+    {
+      "start_time": 198.0,
+      "end_time": 213.0,
+      "text": " there's majority, minority owners ownership in a lot of neighborhoods.  So the other thing is, the other comment, no.  The other comment is, I mentioned this last week.  Triplexes are a far cry from six lots being combined together,"
+    },
+    {
+      "start_time": 205.0,
+      "end_time": 220.0,
+      "text": " The other comment is, I mentioned this last week.  Triplexes are a far cry from six lots being combined together,  which we're trying to do here with SB50,"
+    },
+    {
+      "start_time": 213.0,
+      "end_time": 228.0,
+      "text": " which we're trying to do here with SB50,  and creating a Castro theater in a neighborhood of little bungalows.  Commissioner Moore?  I am interested in Ms. Clark's comments."
+    },
+    {
+      "start_time": 222.0,
+      "end_time": 237.0,
+      "text": " Commissioner Moore?  I am interested in Ms. Clark's comments.  The only question I would ask you if you present the facts later to check the size of the city."
+    },
+    {
+      "start_time": 227.0,
+      "end_time": 242.0,
+      "text": " The only question I would ask you if you present the facts later to check the size of the city.  It's a amount of land, including the average lot size on which single family homes occur."
+    },
+    {
+      "start_time": 234.0,
+      "end_time": 249.0,
+      "text": " It's a amount of land, including the average lot size on which single family homes occur.  In many cities, lot sizes are far, far larger than in San Francisco,  topography and history."
+    },
+    {
+      "start_time": 240.0,
+      "end_time": 255.0,
+      "text": " In many cities, lot sizes are far, far larger than in San Francisco,  topography and history.  So in those cities, you will probably have an average lot size of three quarter to an acre."
+    },
+    {
+      "start_time": 245.0,
+      "end_time": 260.0,
+      "text": " topography and history.  So in those cities, you will probably have an average lot size of three quarter to an acre.  But densification, indeed, is a slightly different challenge or a different solution than here."
+    },
+    {
+      "start_time": 252.0,
+      "end_time": 267.0,
+      "text": " But densification, indeed, is a slightly different challenge or a different solution than here.  I'm just asking that question because you could definitely undermine, under pin your arguments very effectively."
+    },
+    {
+      "start_time": 257.0,
+      "end_time": 272.0,
+      "text": " I'm just asking that question because you could definitely undermine, under pin your arguments very effectively.  I don't need an answer. I'm just asking you to have that next time available in order to make sense,  given the lot constraints, etc. we have here. Thank you."
+    },
+    {
+      "start_time": 263.0,
+      "end_time": 278.0,
+      "text": " I don't need an answer. I'm just asking you to have that next time available in order to make sense,  given the lot constraints, etc. we have here. Thank you.  Okay, thanks.  And I think it's part of our, when we have the housing discussion,"
+    },
+    {
+      "start_time": 268.0,
+      "end_time": 283.0,
+      "text": " given the lot constraints, etc. we have here. Thank you.  Okay, thanks.  And I think it's part of our, when we have the housing discussion,  it'd be good to hear what other cities are doing or maybe what distinguishes us from other cities."
+    },
+    {
+      "start_time": 273.0,
+      "end_time": 288.0,
+      "text": " And I think it's part of our, when we have the housing discussion,  it'd be good to hear what other cities are doing or maybe what distinguishes us from other cities.  Because, you know, I think there's good points about the Excelsior,"
+    },
+    {
+      "start_time": 281.0,
+      "end_time": 296.0,
+      "text": " Because, you know, I think there's good points about the Excelsior,  but there's also neighborhoods that have historically been much more dense than RH1 that are currently RH1.  And there are some, like you mentioned, Commissioner Moore,"
+    },
+    {
+      "start_time": 290.0,
+      "end_time": 305.0,
+      "text": " And there are some, like you mentioned, Commissioner Moore,  where the lot sizes aren't 25 by 100, but they are RH1.  So I think it's a good debate when we should have it and talk about it.  Commissioner Falk?"
+    },
+    {
+      "start_time": 297.0,
+      "end_time": 312.0,
+      "text": " So I think it's a good debate when we should have it and talk about it.  Commissioner Falk?  Yeah, just real quick. I think it's interesting that Ms. Foot brought this up.  And just going on the website here and looking at where House's average size and cost,"
+    },
+    {
+      "start_time": 302.0,
+      "end_time": 317.0,
+      "text": " Yeah, just real quick. I think it's interesting that Ms. Foot brought this up.  And just going on the website here and looking at where House's average size and cost,  there's a 1,400 square foot home for $139,000."
+    },
+    {
+      "start_time": 312.0,
+      "end_time": 327.0,
+      "text": " there's a 1,400 square foot home for $139,000.  But it's sitting on a very large lot as Commissioner Moore points out with the front yard and the side yard,  another side yard and back yard."
+    },
+    {
+      "start_time": 317.0,
+      "end_time": 332.0,
+      "text": " But it's sitting on a very large lot as Commissioner Moore points out with the front yard and the side yard,  another side yard and back yard.  So there may be reasons why that sprawl for those sides.  I think we're all clear that Minneapolis, while I'm sure it's great to have been there,"
+    },
+    {
+      "start_time": 322.0,
+      "end_time": 337.0,
+      "text": " another side yard and back yard.  So there may be reasons why that sprawl for those sides.  I think we're all clear that Minneapolis, while I'm sure it's great to have been there,  is not an apples-dapples for San Francisco.  But I do appreciate you bringing this idea up."
+    },
+    {
+      "start_time": 328.0,
+      "end_time": 343.0,
+      "text": " I think we're all clear that Minneapolis, while I'm sure it's great to have been there,  is not an apples-dapples for San Francisco.  But I do appreciate you bringing this idea up.  And I think your main underlying point is something larger can happen"
+    },
+    {
+      "start_time": 334.0,
+      "end_time": 349.0,
+      "text": " But I do appreciate you bringing this idea up.  And I think your main underlying point is something larger can happen  and something broader in thought sweeping can happen.  So I agree with that direction."
+    },
+    {
+      "start_time": 341.0,
+      "end_time": 356.0,
+      "text": " and something broader in thought sweeping can happen.  So I agree with that direction.  Commissioners, I'm going to request any discussion.  I'm going to request having it."
+    },
+    {
+      "start_time": 347.0,
+      "end_time": 362.0,
+      "text": " So I agree with that direction.  Commissioners, I'm going to request any discussion.  I'm going to request having it."
+    }
+  ]
+}
