@@ -84,16 +84,16 @@ Ask: exit
 
 🧠 Tech Stack:
 
-Whisper (ASR)
-EasyOCR (image-to-text)
-SentenceTransformers (all-MiniLM-L6-v2)
-ChromaDB (vector DB)
-Ollama (local LLMs)
+Whisper (ASR), 
+EasyOCR (image-to-text), 
+SentenceTransformers (all-MiniLM-L6-v2), 
+ChromaDB (vector DB), 
+Ollama (local LLMs), 
 Python CLI (no frontend yet)
 
 📌 TODO (Upcoming)
 
- React frontend like Groq Chat
- Admin dashboard for summary & QA logs
- Multi-video search
+ React frontend like Groq Chat, 
+ Admin dashboard for summary & QA logs, 
+ Multi-video search, 
  OCR post-processing for better accuracy
