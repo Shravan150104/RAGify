@@ -1,0 +1,25 @@
+# Core
+sentence-transformers==2.2.2
+chromadb==0.4.22
+ollama==0.1.8
+tqdm
+numpy
+scikit-learn
+
+# OCR (EasyOCR + dependencies)
+easyocr==1.7.1
+torch==2.2.2
+opencv-python==4.9.0.80
+Pillow
+
+# Whisper / WhisperX
+openai-whisper==20231117
+ffmpeg-python
+faster-whisper==1.0.1  # Optional alternative
+
+# CLI Utils
+rich
+typer
+
+# Optional if you use .env for config
+python-dotenv
